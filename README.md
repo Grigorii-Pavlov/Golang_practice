@@ -1,5 +1,5 @@
 # Программирование на Golang
-## https://stepik.org/course/54403/info
+## `https://stepik.org/course/54403/info`
 ### 1. Введение в основы
 1.3 Первая программа  
 1.4 Типы данных  
