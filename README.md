@@ -1,2 +1,2 @@
 # Golang_practice
-Решённые задачи из Stepik
+Решённые задачи из Stepik.
